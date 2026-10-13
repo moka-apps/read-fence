@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "read-fence",
+  "description": "Claude Code mod that keeps Claude out of your skill, rule and plugin folders while the fence is on.",
+  "owner": { "name": "Varun Moka", "url": "https://github.com/varunmoka7" },
+  "plugins": [
+    {
+      "name": "read-fence",
+      "description": "Stops Claude from opening your skill, rule and plugin folders file by file while you have the fence switched on. Skills still run normally.",
+      "author": { "name": "Varun Moka", "url": "https://github.com/varunmoka7" },
+      "source": "./",
+      "homepage": "https://github.com/varunmoka7/read-fence",
+      "category": "productivity",
+      "tags": ["claude-code-mod", "context", "skills"]
+    }
+  ]
+}

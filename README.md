@@ -1,4 +1,13 @@
-# read-fence
+<p align="center">
+  <img src="assets/banner.svg" alt="read-fence: Keeps Claude out of your skill, rule and plugin folders." width="100%">
+</p>
+
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/moka-apps/read-fence?style=flat-square&color=111111" alt="License"></a>
+  <a href="https://github.com/moka-apps"><img src="https://img.shields.io/badge/moka--apps-Claude_Code_mod-39d2c0?style=flat-square" alt="moka-apps, Claude Code mod"></a>
+</p>
+
+---
 
 A Claude Code mod that stops Claude from opening your skill, rule and plugin folders file by file, while you have the fence switched on.
 
@@ -13,7 +22,7 @@ Example: you ask Claude to "look at what skills I have". Without the fence it ma
 Paste these two lines into a terminal (not into Claude):
 
 ```
-claude plugin marketplace add varunmoka7/read-fence
+claude plugin marketplace add moka-apps/read-fence
 claude plugin install read-fence@read-fence
 ```
 

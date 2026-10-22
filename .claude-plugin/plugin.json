@@ -4,7 +4,7 @@
   "description": "Stops Claude from opening your skill, rule and plugin folders file by file while you have the fence switched on. Skills still run normally.",
   "author": { "name": "Varun Moka", "url": "https://github.com/varunmoka7" },
   "license": "MIT",
-  "homepage": "https://github.com/varunmoka7/read-fence",
-  "repository": "https://github.com/varunmoka7/read-fence",
+  "homepage": "https://github.com/moka-apps/read-fence",
+  "repository": "https://github.com/moka-apps/read-fence",
   "keywords": ["claude-code", "claude-code-mod", "claude-code-plugin", "function-hooks", "context", "skills"]
 }
